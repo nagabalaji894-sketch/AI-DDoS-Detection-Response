@@ -1,0 +1,2 @@
+Dataset,Training_Rows,Test_Rows,Accuracy,Attack_Precision,Attack_Recall,Attack_F1,True_Negatives,False_Positives,False_Negatives,True_Positives
+CIC-DDoS2019,480000,120000,0.9998916666666666,0.999945477841286,0.9999363913928467,0.9999409345964243,9946,6,7,110041

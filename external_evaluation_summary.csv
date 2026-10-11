@@ -1,0 +1,3 @@
+Experiment,Accuracy,Attack Precision,Attack Recall,Attack F1,False Positives,False Negatives
+CIC-IDS2017 -> CIC-DDoS2019,0.08264,0.0,0.0,0.0,35,110048
+CIC-DDoS2019 internal test split,0.99989,0.99995,0.99994,0.99994,6,7
